@@ -1,4 +1,4 @@
-// 1-> Klavyeden kenarları girilen bir üçgenin çeşidini bulma
+// 1-> Finding the type of a triangle whose sides are entered from the keyboard
 
 let side1 = parseFloat(prompt("Please enter the first side: "));
         let side2 = parseFloat(prompt("Please enter the second side: "));
